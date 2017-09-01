@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/e59folev1ycd91u/Music%20Pocket.ipa?raw=1</string>
+					<string>https://musicpocket.github.io/MusicPocket.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/g7gpbrkezzk6eal/Icon-57%401x.png?raw=1</string>
+					<string>https://musicpocket.github.io/Icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/s/rtnenolmwqv3jvr/new43.png?raw=1</string>
+					<string>https://musicpocket.github.io/new43.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
